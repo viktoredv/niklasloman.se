@@ -24,6 +24,12 @@ header {
   letter-spacing: 0.05em;
 }
 
+header {
+  @include mobile {
+   font-size: 0.75em;
+ }
+}
+
 h1,
 h2 {
   max-width: 100%;
@@ -41,7 +47,7 @@ h2 {
 h1 {
   font-size: 2em;
   @include mobile {
-   font-size: 1.2em;
+   font-size: 1.0em;
   }
 }
 
