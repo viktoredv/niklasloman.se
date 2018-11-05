@@ -1,10 +1,14 @@
 ---
 layout: post
-title: You're up and running!
+title: En journalistjävel med hjärtat på rätta stället för fan!
 ---
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Admodum iis fugiat, sed noster minim ea doctrina ea ullamco summis aliquip
+nostrud nam noster iis pariatur. Sint an possumus te aliqua a expetendis a irure
+incurreret, amet ad laborum a magna, culpa occaecat id imitarentur. Veniam
+expetendis iis excepteur, te dolore nescius firmissimum, senserit an export
+nostrud, culpa deserunt vidisse. An irure ex veniam nam incurreret ipsum
+proident mentitum.Dolore et admodum hic legam ne probant ne incididunt. Ut
+incididunt ad singulis qui est anim consectetur ut nulla hic senserit o dolor,
+aut hic summis eram magna, doctrina export cupidatat id enim do arbitror,
+commodo sempiternum in expetendis id possumus voluptatibus est ullamco.
+Cernantur fidelissimae hic excepteur non non quis id irure.
