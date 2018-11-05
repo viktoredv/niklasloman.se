@@ -40,6 +40,9 @@ h2 {
 
 h1 {
   font-size: 2em;
+  @include mobile {
+   font-size: 1.2em;
+  }
 }
 
 h2 {
@@ -51,6 +54,9 @@ p {
   letter-spacing: 0.05em;
   a {
    border-bottom: 1px solid $darkGray;
+  }
+  @include mobile {
+   font-size: 0.75em;
   }
 }
 pre {
