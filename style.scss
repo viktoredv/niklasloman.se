@@ -13,7 +13,7 @@ body {
   background: $white;
   font: 32px/1.5 $paralucent;
   font-weight: 200;
-  color: rgba($darkGray, 0.85);
+  color: $darkGray;
   padding: 5% 10%;
 }
 
@@ -28,7 +28,7 @@ h1,
 h2 {
   max-width: 100%;
   font-family: $paralucent;
-  color: $darkerGray;
+  color: $darkGray;
   font-weight: 700;
   line-height: 1.1;
   margin: 1em 0 0.5em;
@@ -67,7 +67,7 @@ pre {
 }
 
 a {
-  color: $black;
+  color: inherit;
   text-decoration: none;
   cursor: pointer;
   &:active,
@@ -122,17 +122,17 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $darkGray;
 }
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: $lightGray;
+  background: $darkGray;
 }
 
 ::selection {
   color: $black;
-  background: $lightGray;
+  background: $darkGray;
 }
 // Nicolas Gallagher's micro clearfix hack
 // http://nicolasgallagher.com/micro-clearfix-hack/
@@ -149,9 +149,9 @@ img {
 
 blockquote {
   margin: 1.8em 0.8em;
-  border-left: 2px solid $gray;
+  border-left: 2px solid $darkGray;
   padding: 0.1em 1em;
-  color: $gray;
+  color: $darkGray;
   font-size: 22px;
   font-style: italic;
 }
