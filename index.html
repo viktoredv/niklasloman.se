@@ -3,6 +3,7 @@ layout: default
 ---
 {% for post in site.posts %}
  <article class="post">
-  <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-  <p>{{ post.excerpt }}</p>
+  <h1>{{ post.title }}</h1>
+  <p>{{ post.content }}</p>
+  <pre>Publicerad i <a href="{{ post.link }}">{{ post.tidning }}</a> {{ post.date | date: "%Y–%m–%d" }}</pre>
 </article> {% endfor %}
