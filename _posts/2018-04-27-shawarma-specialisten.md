@@ -4,4 +4,4 @@ title: 'Shawarma-specialisten'
 tidning: Kebabnytt
 link: #
 ---
-Hej hej, jag har recenserat den här grejen.
+Hej hej, jag har recenserat den här grejen. Kingen e tillbaka.
